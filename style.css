@@ -199,6 +199,6 @@ body {
   
 } 
 .yamete {
-  padding:550px;
-  font-size: 50px;
+  min-width: 960px;
+  max-width: 100%
 }
