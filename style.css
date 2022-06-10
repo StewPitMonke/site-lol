@@ -19,11 +19,7 @@ body {
 
 
 
-.page-header .container,
-.page-footer .container {
-  max-width: 1408px;
-  text-align: right;
-}
+
 
 .page-header a {
   margin-left: 56px;
