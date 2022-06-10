@@ -179,6 +179,7 @@ body {
 .img {
   text-align:center;
 }
-.heading {
+.head {
   font-size:500px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
 }
